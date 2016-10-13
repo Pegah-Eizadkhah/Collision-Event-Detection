@@ -19,4 +19,5 @@ This specific script controls the collision events in the game,
 This script uses some functions defined in the Unity game engine. 
 
 This code is owned by Pegah Eizadkhah and is not meant for redistribution.
+
 */
