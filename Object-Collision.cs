@@ -86,7 +86,6 @@ public class fishCollider : MonoBehaviour
 		{
 		Destroy(hookedFish);
 		}
-		
 		//Collectible replaces fish on the hook for a second
 		GameObject collectFish = other.gameObject;
 		//collectible object is destroyed
