@@ -3,6 +3,7 @@ Game Programming Collision Detection in C#
 
 /*
 Pegah Eizadkhah
+
 This C# script is part of a larger set of scripts for a Gaming project.
 
 In this game the player catches & guides a fish (attached to a hook) across a "highway" trying not to collide 
